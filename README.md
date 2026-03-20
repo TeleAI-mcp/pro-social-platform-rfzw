@@ -1,2 +1,3 @@
-# pro-social-platform-rfzw
-Automated issue comment bot repository
+# Pro Social Platform Rfzw
+
+Automated issue comment bot repository.
